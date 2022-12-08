@@ -1,0 +1,6 @@
+./
+../
+.git/
+README.md
+firstFile.txt
+secondFile.txt
